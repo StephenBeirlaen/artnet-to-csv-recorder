@@ -1,0 +1,4 @@
+artnet-recorder-venv/
+__pycache__/
+recordings/
+config.yaml
