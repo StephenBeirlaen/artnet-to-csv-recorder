@@ -52,3 +52,9 @@ Arguments:
 ```
 
 To start a recording, press `r` on the keyboard. To stop, press `r` again.
+
+## Running tests
+
+```
+$ python3.8 -m unittest discover -s tests -t tests
+```
